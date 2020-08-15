@@ -33,5 +33,17 @@
 }
 .text{
     width: 100%;
-    height: 300px;
+    height: 500px;
+}
+.anim1{
+    animation: slideInLeft;
+    animation-duration: 1.3s;
+}
+.anim2{
+    animation: slideInUp;
+    animation-duration: 1.3s;
+}
+.anim3{
+    animation: slideInRight; 
+    animation-duration: 1.3s;
 }
